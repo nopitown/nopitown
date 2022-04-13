@@ -1,5 +1,5 @@
 # Oh, hello 👋🏻! I'm Eli Manrique
 
-Software Engineer with over 9 years of experience creating webs with **React JS, TypeScript, Tailwind, NextJS, and GraphQL**. Currently, working at @comparaonline as IT Manager and previously at @ableco.
-
-Sometimes, I write about web development, gadgets and some reflections in my blog www.nopitown.com 📝.
+- 💻 Software Engineer specialized in web development with ReactJS, TypeScript, Cypress, GraphQL and Tailwind CSS
+- 🗓 Currently, working at @comparaonline as IT Manager and previously at @ableco and Grupo "El Comercio"
+- 📝 I write about web development, gadgets and some reflections in my blog www.nopitown.com
