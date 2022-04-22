@@ -1,7 +1,7 @@
 # Hi 👋🏻! I'm Eli Manrique
 
 <div style="display: flex; justify-content: center">
-  <img src="./assets/eli-illustration.png" width="260" style="display:block"/>
+  <img src="./assets/eli-illustration.png" width="260" />
 </div>
 
 ## About me
