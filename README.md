@@ -26,8 +26,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="26px" alt="Ruby" title="Ruby" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" title="Rails" />
 </div>
-&nbsp;&nbsp;
 
+&nbsp;
 
 ## 📕 Latest Blog Posts
 
