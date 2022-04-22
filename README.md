@@ -1,4 +1,6 @@
-# Oh, hello 👋🏻! I'm Eli Manrique
+# Hi 👋🏻! I'm Eli Manrique
+
+<img src="./assets/eli-illustration.png"/>
 
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
@@ -9,7 +11,7 @@
 - 🥸 As a fan fuct, I like to watch mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
 
 
-## Languages
+# Languages
 
 <div style="display: flex; gap: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" alt="CSS" title="HTML" />
@@ -21,3 +23,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" title="Rails" />
 </div>
 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://nopitown.com)
