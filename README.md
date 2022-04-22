@@ -3,6 +3,8 @@
 <img src="./assets/eli-illustration.png" width="260" style="margin: 0 auto; display:block"/>
 
 &nbsp;
+
+## About me
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
 - 🗓 Currently, I work at [@comparaonline](https://github.com/comparaonline) as an IT Manager (previously at [@ableco](https://github.com/ableco) and Grupo "El Comercio").
@@ -13,7 +15,7 @@
 
 &nbsp;
 
-# Languages
+## Languages
 
 <div style="display: flex; gap: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" alt="CSS" title="HTML" />
@@ -27,7 +29,7 @@
 &nbsp;&nbsp;
 
 
-# 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Creando un To Do app con Remix](https://nopitown.com/creando-un-to-do-app-con-remix/)
