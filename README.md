@@ -1,6 +1,6 @@
 # Hi 👋🏻! I'm Eli Manrique
 
-<img src="./assets/eli-illustration.png"/>
+<img src="./assets/eli-illustration.png" width="260"/>
 
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
