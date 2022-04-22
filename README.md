@@ -1,6 +1,8 @@
 # Hi 👋🏻! I'm Eli Manrique
 
-<img src="./assets/eli-illustration.png" width="260" style="margin: 0 auto; display:block"/>
+<div style="display: flex; justify-content: center">
+  <img src="./assets/eli-illustration.png" width="260" style="display:block"/>
+</div>
 
 ## About me
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
