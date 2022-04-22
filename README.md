@@ -2,8 +2,6 @@
 
 <img src="./assets/eli-illustration.png" width="260" style="margin: 0 auto; display:block"/>
 
-&nbsp;
-
 ## About me
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
@@ -13,10 +11,7 @@
 - 📧 Reach me out at hey@nopitown.com
 - 🥸 As a fan fuct, I like to watch mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
 
-&nbsp;
-
 ## Languages
-
 <div style="display: flex; gap: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" alt="CSS" title="HTML" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" alt="CSS" title="CSS" />
@@ -27,10 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" title="Rails" />
 </div>
 
-&nbsp;
-
 ## 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Creando un To Do app con Remix](https://nopitown.com/creando-un-to-do-app-con-remix/)
 - [Core Web Vitals: LCP](https://nopitown.com/learnings-about-core-web-vitals-lcp/)
