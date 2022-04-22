@@ -30,7 +30,11 @@
 # 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Creando un To Do app con Remix](https://nopitown.com/creando-un-to-do-app-con-remix/)
+- [Core Web Vitals: LCP](https://nopitown.com/learnings-about-core-web-vitals-lcp/)
+- [#Wrapped2021: 5 cosas que hice diferente](https://nopitown.com/wrapped-2021-5-cosas-que-hice-diferente/)
+- [My 2020 favorite gadgets](https://nopitown.com/my-2020-favorite-gadgets/)
+- [Hasta siempre, abuela](https://nopitown.com/hasta-siempre/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nopitown.com)
