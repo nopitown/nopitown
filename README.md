@@ -40,3 +40,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nopitown.com)
+
+## 📫 Like to meet me?
+
+Pick a slot that suits better for you if you'd like to chat with me (but make sure to describe the agenda, please!)
+
+<a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0r7x7VsrZxtwBE0UIly3KvIE6dXl7-v8g23_h0StHOnfirC8uBIoa4SiqIvci2kMcZIHYjPl_e" target="_blank"><img width="498" alt="meet_link" src="./assets/30-min-meeting.png"></a>
+
