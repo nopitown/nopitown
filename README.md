@@ -19,16 +19,12 @@
 - 📧 Reach me out at hey@nopitown.com
 - 🥸 As a fan fuct, I like to watch mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
 
-## Languages
-<div style="display: flex; gap: 4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" alt="CSS" title="HTML" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" alt="CSS" title="CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" alt="javascript" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26px" alt="typescript" title="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" alt="React" title="React JS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="26px" alt="Ruby" title="Ruby" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" title="Rails" />
-</div>
+## Technologies
+- 🎨 **Front-End**: JavaScript,TypeScript, React JS, Next JS, Remix, CSS, Tailwind, and Boostrap.
+- 🔙 **Back-End**: Ruby on Rails, Prisma.
+- 🐞 **Testing**: Cypress and Jest
+- 📡 **APIs**: GraphQL, Rest APIs, Serverless.
+- 💻 **DevOps**: Heroku, Netlify, AWS S3, Docker, and Jenkins.
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -43,7 +39,6 @@
 
 ## 📫 Like to meet me?
 
-Feel free to pick a slot in my calendar that suits better for you (but make sure to describe the agenda, please!) I'll be more than happy to meet you 👋🏻😎.
+I'll be more than happy to meet you 👋🏻😎. Please, feel free to pick a slot in my calendar that suits better for you (make sure to describe the agenda!) 
 
 <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0r7x7VsrZxtwBE0UIly3KvIE6dXl7-v8g23_h0StHOnfirC8uBIoa4SiqIvci2kMcZIHYjPl_e" target="_blank"><img width="498" alt="meet_link" src="./assets/30-min-meeting.png"></a>
-
