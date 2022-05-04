@@ -28,7 +28,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kill a process based on the port is running](https://nopitown.com/killing-a-process-based-on-the-port/)
+- [Kill a process running on a port](https://nopitown.com/kill-a-process-running-on-a-port/)
 - [React Miami Conf 2022](https://nopitown.com/react-miami-conf-2022/)
 - [Creando un To Do app con Remix](https://nopitown.com/creando-un-to-do-app-con-remix/)
 - [Core Web Vitals: LCP](https://nopitown.com/learnings-about-core-web-vitals-lcp/)
