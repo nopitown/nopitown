@@ -29,7 +29,7 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Kill a process running on a port](https://nopitown.com/kill-a-process-running-on-a-port/)
-- [React Miami Conf 2022](https://nopitown.com/react-miami-conf-2022/)
+- [React Miami 2022](https://nopitown.com/react-miami-conf-2022/)
 - [Creando un To Do app con Remix](https://nopitown.com/creando-un-to-do-app-con-remix/)
 - [Core Web Vitals: LCP](https://nopitown.com/learnings-about-core-web-vitals-lcp/)
 - [#Wrapped2021: 5 cosas que hice diferente](https://nopitown.com/wrapped-2021-5-cosas-que-hice-diferente/)
