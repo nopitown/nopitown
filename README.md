@@ -13,14 +13,14 @@
 ## About me
 - 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
-- 🗓 Currently, I work at [Newfront](https://www.newfront.com/) as a Software Engineer (previously at [ComparaOnline](https://comparaonline.cl) and [Able.co](https://able.co).
-- 📝 I write about web development, gadgets and some personal reflections in my blog [www.nopitown.dev](https://www.nopitown.dev).
+- 🗓 Currently, I work at [Able.co](https://www.able.co/) as a Software Engineer (previously at [Newfront](https://www.newfront.com/) and [ComparaOnline](https://comparaonline.cl)).
+- 📝 I write about web development, gadgets, and some personal reflections in my blog [www.nopitown.dev](https://www.nopitown.dev).
 - 🎮 In my spare time, I like to collect Zippo lighters 🕯, read Spider-Man comics 🕷 and play the piano 🎹.
 - 📧 Reach me out at hey@nopitown.com
-- 🥸 As a fan fuct, I like to watch mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
+- 🥸 As a fan fact, I like to watch Mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
 
 ## Technologies
-- 🎨 **Front-End**: JavaScript,TypeScript, React JS, Next JS, Remix, CSS, Tailwind, and Boostrap.
+- 🎨 **Front-End**: JavaScript, TypeScript, React JS, Next JS, Remix, CSS, Tailwind, and Bootstrap.
 - 🔙 **Back-End**: Ruby on Rails, Prisma.
 - 🐞 **Testing**: Cypress and Jest
 - 📡 **APIs**: GraphQL, Rest APIs, Serverless.
