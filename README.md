@@ -11,7 +11,7 @@
 
 
 ## About me
-- 💻 I'm a Full-Stack JavaScript Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
+- 💻 I'm a Full-Stack JavaScript Engineer with ten years of experience building web apps.
 - 👤 My pronouns are `She, her, ella`.
 - 🗓 Currently, I work at [Able.co](https://www.able.co/) as a Senior Software Engineer (previously at [Newfront](https://www.newfront.com/) and [ComparaOnline](https://comparaonline.cl)).
 - 📝 I write about web development, gadgets, and some personal reflections in my blog [www.nopitown.dev](https://www.nopitown.dev).
