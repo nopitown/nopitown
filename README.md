@@ -11,20 +11,19 @@
 
 
 ## About me
-- 💻 I'm a Software Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
+- 💻 I'm a Full-Stack JavaScript Engineer specialized in front-end web development with **ReactJS**, **TypeScript**, **Cypress**, **GraphQL**, and **Tailwind CSS**.
 - 👤 My pronouns are `She, her, ella`.
-- 🗓 Currently, I work at [Able.co](https://www.able.co/) as a Software Engineer (previously at [Newfront](https://www.newfront.com/) and [ComparaOnline](https://comparaonline.cl)).
+- 🗓 Currently, I work at [Able.co](https://www.able.co/) as a Senior Software Engineer (previously at [Newfront](https://www.newfront.com/) and [ComparaOnline](https://comparaonline.cl)).
 - 📝 I write about web development, gadgets, and some personal reflections in my blog [www.nopitown.dev](https://www.nopitown.dev).
 - 🎮 In my spare time, I like to collect Zippo lighters 🕯, read Spider-Man comics 🕷 and play the piano 🎹.
 - 📧 Reach me out at hey@nopitown.com
-- 🥸 As a fan fact, I like to watch Mexican soap opera (please ask me about ["Rebelde"](https://en.wikipedia.org/wiki/Rebelde) 😆).
 
 ## Technologies
 - 🎨 **Front-End**: JavaScript, TypeScript, React JS, Next JS, Remix, CSS, Tailwind, and Bootstrap.
-- 🔙 **Back-End**: Ruby on Rails, Prisma.
-- 🐞 **Testing**: Cypress and Jest
+- 🔙 **Back-End**: Nest JS, Prisma.
+- 🐞 **Testing**: Playwright, Jest, and Cypress.
 - 📡 **APIs**: GraphQL, Rest APIs, Serverless.
-- 💻 **DevOps**: Heroku, Netlify, AWS S3, Docker, and Jenkins.
+- 💻 **DevOps**: Heroku, Netlify, AWS S3, Docker, Terraform, and Jenkins.
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -39,6 +38,6 @@
 
 ## 📫 Like to meet me?
 
-I'll be more than happy to meet you 👋🏻😎. Please, feel free to pick a slot in my calendar that suits better for you (make sure to describe the agenda!) 
+I'll be more than happy to meet you 👋🏻😎. Please feel free to pick a slot in my calendar that suits better you (make sure to describe the agenda!) 
 
 <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0r7x7VsrZxtwBE0UIly3KvIE6dXl7-v8g23_h0StHOnfirC8uBIoa4SiqIvci2kMcZIHYjPl_e" target="_blank"><img width="498" alt="meet_link" src="./assets/30-min-meeting.png"></a>
