@@ -12,7 +12,7 @@
 
 
 ## About me
-- 💻 I'm a Full-Stack JavaScript Engineer with ten years of experience building web apps.
+- 💻 I'm a Full-Stack Product Engineer with ten years of experience building web apps.
 - 👤 My pronouns are `She, her, ella`.
 - 🗓 Currently, I work at [Able.co](https://www.able.co/) as a Senior Software Engineer (previously at [Newfront](https://www.newfront.com/) and [ComparaOnline](https://comparaonline.cl)).
 - 📧 Learn more about my background in [https://www.nopitown.com](https://www.nopitown.com).
